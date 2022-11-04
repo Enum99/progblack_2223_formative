@@ -11,7 +11,7 @@ The articles were very well atriculated presenting complicated information clear
 No errors or warnings were presented besides a few trailing slashes
 
 ## Evidence of collaberation - 19
-It does seem as though a lions share of the work was done by one person
-Was completed well before the practical
+It does seem as though a lions share of the work was done by one person  
+Was completed well before the practical  
 One article by one of the members was missing
 
